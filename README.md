@@ -11,9 +11,9 @@ mkdir foldername
 ```bash
 gedit filename.extension
 ```
-- cpp - *.cpp
-- CUDA - *.cu
-- python - *.py
+- cpp - .cpp
+- CUDA - .cu
+- python - .py
 
 ## Run C++ file (normal)
 ```bash
