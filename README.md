@@ -38,3 +38,11 @@ nvcc filename.cu -o exefilename
 ```bash
 ./exefilename
 ```
+
+
+## Clone a GitHub repo
+```bash
+git clone https://github.com/AzharPathan22/Sem8
+```
+
+
